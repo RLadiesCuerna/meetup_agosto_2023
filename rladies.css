@@ -1,0 +1,67 @@
+h1, h2, h3 {
+  font-weight: normal;
+  color: #562457;
+}
+a, a > code {
+  color: #88398a;
+}
+
+.remark-slide-content {
+  background-image: url("img/rladies.png"), linear-gradient(to bottom, white 92%, #562457 100%) ;
+  background-position: 0% 100%,  center;
+  background-size: 80px,  100% 100%, cover ;
+  font-size: 22pt;
+}
+
+.title-slide {
+  background-image: url("img/rladies.png"), url("img/x.png") ;
+  background-position: 0% 0% , 41% 58% ;
+  background-size: 180px, 35px;
+}
+
+.chapter-slide {
+  background-image: linear-gradient(to bottom, #562457 85%, #562457 100%) ;
+  background-position:  center;
+  background-size: cover;
+}
+
+.chapter-slide h1 {
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  text-align: center;
+  color: white ;
+}
+
+.pull-left {
+  float: left;
+  width: 47%;
+  margin-top: -30px;
+}
+
+.pull-right {
+  float: right;
+  width: 47%;
+  margin-top: -30px;
+}
+
+.left-column {
+  width: 30%;
+  float: left;
+  margin-top: -30px;
+}
+
+.right-column {
+  width: 65%;
+  float: right;
+  margin-top: -30px;
+}
+
+.remark-code-line-highlighted { background-color: rgba(136, 57, 138, 0.3); }
+
+.inverse {
+  background-color: #562457;
+}
+.inverse, .inverse h1, .inverse h2, .inverse h3, .inverse a, inverse a > code {
+  color: #fff;
+}
