@@ -17,7 +17,7 @@ output:
 **Diapositivas disponibles en:**
 
 - https://rladiescuerna.github.io/meetup_agosto_2023/slides.html
-- https://rladiescuerna.github.io/meetup_agosto_2023/slides.pdf
+
 
 Material basado en [Happy Git with R](https://happygitwithr.com) de Jenny Bryan, the STAT 545 TAs, Jim Hester.
 

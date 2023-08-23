@@ -33,8 +33,6 @@ Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde t
 
 https://rladiescuerna.github.io/meetup_agosto_2023/slides.html
 
-https://rladiescuerna.github.io/meetup_agosto_2023/slides.pdf
-
 
 ## Conocimientos previos requeridos
 
