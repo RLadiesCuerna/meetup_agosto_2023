@@ -29,7 +29,12 @@ Su principal interés es la bioinformática y el desarrollo de software para an�
 
 Si lo prefieres, puedes usar el comando `git clone < url_repositorio > ` desde tu terminal para clonar el repositorio.
 
-- Diapositivas: http://rladiescuerna.github.io/meetup_julio_2023/slides.html  
+- Diapositivas:
+
+https://rladiescuerna.github.io/meetup_agosto_2023/slides.html
+
+https://rladiescuerna.github.io/meetup_agosto_2023/slides.pdf
+
 
 ## Conocimientos previos requeridos
 
